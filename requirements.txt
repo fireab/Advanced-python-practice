@@ -1,0 +1,8 @@
+autopep8
+fluentpy
+ipdb
+matplotlib
+pandas
+pytest
+toolz
+tqdm
